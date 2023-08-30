@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="./assets/logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>YOUR-PROJECT-NAME-HERE</b></h3>
+  <h3><b>LEADERBOARD</b></h3>
 
 </div>
 
