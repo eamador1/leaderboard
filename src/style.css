@@ -55,7 +55,7 @@ h1 {
   margin-bottom: 3vh;
 }
 
-.user {
+.player {
   display: flex;
   justify-content: flex-start;
   width: 68vw;
@@ -63,11 +63,11 @@ h1 {
   padding-left: 2vw;
 }
 
-.user h5 {
+.player h5 {
   width: 45%;
 }
 
-.user span {
+.player span {
   margin-left: 2vw;
 }
 
@@ -133,16 +133,16 @@ h1 {
     margin-left: 5vw;
   }
 
-  .user {
+  .player {
     padding-left: 1vw;
   }
 
-  .user h5 {
+  .player h5 {
     font-size: 20px;
     width: 30%;
   }
 
-  .user span {
+  .player span {
     margin-left: 2vw;
     font-size: 20px;
   }
