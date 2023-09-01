@@ -4,7 +4,7 @@ import './style.css';
 
 import populateList from './module/showList.js';
 
-async function populate() {
+const populate = async () => {
   const requestURL = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/IV1251GkSsG9dGnKrPGk/scores/';
   const request = new Request(requestURL);
 

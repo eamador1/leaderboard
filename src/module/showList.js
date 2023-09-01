@@ -1,4 +1,4 @@
-export default function populateList(obj) {
+const populateList = (obj) => {
   const displayList = document.querySelector('.displayList');
   const players = obj.result;
   displayList.innerHTML = '';
@@ -18,3 +18,5 @@ export default function populateList(obj) {
     displayList.appendChild(playerDiv);
   });
 }
+
+export default populateList;
