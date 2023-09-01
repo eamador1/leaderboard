@@ -17,6 +17,6 @@ const populateList = (obj) => {
     playerDiv.appendChild(score);
     displayList.appendChild(playerDiv);
   });
-}
+};
 
 export default populateList;
