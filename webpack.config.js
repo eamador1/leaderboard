@@ -7,7 +7,6 @@ module.exports = {
   },
   devServer: {
     static: './dist',
-    port: '9000',
     hot: true,
     watchFiles: ['src/*.html'],
     liveReload: true,
