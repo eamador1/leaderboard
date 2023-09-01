@@ -20,7 +20,7 @@
 
 # 📖 LEADERBOARD <a name="about-project"></a>
 
-In this project, I built a simple HTML of a leaderboard. The leaderboard was structured according to the wireframe, but without styling. In the future, I will consume the Leaderboard API using JavaScript async and await and add some styling.
+In this project, I built a simple HTML of a leaderboard. The leaderboard was structured according to the wireframe, but without styling. In this branch, I start sending and receiving data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,8 +55,7 @@ In this project, I built a simple HTML of a leaderboard. The leaderboard was str
 - **Comply with linters**
 - **DOM events with Javascript**
 - **Javascript events**
-- **Use objects to store and access data**
-- **Use localStorage**
+- **Receive and send data from/to Leaderboard API**
 - **Use webpack to bundle JavaScript**
 - **Use ES6 modules to write modular JavaScript**
 
@@ -125,7 +124,7 @@ Thank you Esteban for your collaboration in this project, especially your assist
 
 Thank you Alex, my coding partner, for being there when I have a doubt.
 
-- GitHub: [@Estete9](https://github.com/alex1779)
+- GitHub: [@alex1779](https://github.com/alex1779)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
