@@ -20,7 +20,7 @@
 
 # 📖 LEADERBOARD <a name="about-project"></a>
 
-In this project, I built a simple HTML of a leaderboard. The leaderboard was structured according to the wireframe, but without styling. In this branch, I start sending and receiving data from/to the Leaderboard API.
+In this project, I built a simple HTML of a leaderboard. The leaderboard was structured according to the wireframe and it started sending and receiving data from/to the Leaderboard API, and it is now fully functional. In this branch, the project was given style and color and finally deployed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
