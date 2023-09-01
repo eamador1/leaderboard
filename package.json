@@ -6,7 +6,8 @@
   "scripts": {
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "npm run build && netlify deploy --prod --dir ./build" 
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,7 @@
     "eslint-plugin-import": "^2.28.1",
     "file-loader": "^6.2.0",
     "gh-pages": "^6.0.0",
+    "hint": "^7.1.10",
     "html-webpack-plugin": "^5.5.3",
     "sass": "^1.66.1",
     "sass-loader": "^13.3.2",

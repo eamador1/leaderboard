@@ -1,11 +1,5 @@
 <a name="readme-top"></a>
 
-  <h3><b>LEADERBOARD</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -16,21 +10,17 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 LEADERBOARD <a name="about-project"></a>
 
-# 📖 WEBPACK TEMPLATE <a name="about-project"></a>
-
-**WEBPACK TEMPLATE** This template is focused on being a base project using Webpack and all the core libraries needed.
+In this project, I built a simple HTML of a leaderboard. The leaderboard was structured according to the wireframe and it started sending and receiving data from/to the Leaderboard API, and it is now fully functional. In this branch, the project was given style and color and finally deployed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,113 +29,133 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-    <li><a href="https://reactjs.org/">CSS (including responsive design)</a></li>
-    <li><a href="https://reactjs.org/">JavaScript for menu functionality</a></li>
-    <li><a href="https://webpack.js.org">Webpack</a></li>
+    <li><a href="https://www.hostinger.com/tutorials/what-is-html">HTML</a></li>
+    <li><a href="https://www.hostinger.com/tutorials/what-is-css">CSS</a></li>
+    <li><a href="https://www.hostinger.com/tutorials/what-is-javascript">JAVASCRIPT</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>N/A</li>
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **[Responsive design for mobile and desktop]**
-- **[Menu functionality using JavaScript]**
-- **[Use of modules and libraries]**
+- **Follow a correct Gitflow**
+- **Comply with linters**
+- **DOM events with Javascript**
+- **Javascript events**
+- **Receive and send data from/to Leaderboard API**
+- **Use webpack to bundle JavaScript**
+- **Use ES6 modules to write modular JavaScript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://estete9.github.io/IliArtes/)
+- [Live Demo Link](https://eamador1-leaderboard.netlify.app)
+https://eamador1-leaderboard.netlify.app
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-To run this project you need:
+In order to run this project you need:
+
+✅ Github account <br>
+✅ Visual Studio Code installed <br>
+✅ Node.js installed <br>
+✅ Git Bash installed (optional)   
 
 ### Setup
 
-Acquire a Web browser
+Clone this repository to your desired folder:
 
-### Install
-No installation is needed.
-### Usage
-
-To start the page run your command line:
-- `npm install`
-- `npm run start` 
-
-### Run tests
-
-Use your browser's developer tools
+```sh
+  cd [my-folder]
+  git clone git@github.com:eamador1/leaderboard.git
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+**Erwin Amador**
+- GitHub: [@ErwinAmador](https://github.com/eamador1)
+- Twitter: [@ErwinAmador](https://twitter.com/hokieamador)
 
-👤 **Esteban Palacios**
-
-- GitHub: [@Estete9](https://github.com/Estete9)
-- Twitter: [@NaughTban](https://twitter.com/NaughTban)
-- LinkedIn: [Esteban Palacios](https://www.linkedin.com/in/esteban-palacios-5030a772/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Gallery popup**
+- [ ] **Use leaderboard API**
+- [ ] **Add Functionality**
+- [ ] **Add Styling**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page UPDATE URL HERE](https://github.com/Estete9/YOUR-REPO-NAME-HERE/issues).
+Feel free to check the [issues page](../../issues/).
+
+## 👤 Collaboration:
+
+Thank you Esteban for your collaboration in this project, especially your assistance with Webpack.
+
+- GitHub: [@Estete9](https://github.com/Estete9)
+
+Thank you Alex, my coding partner, for being there when I have a doubt.
+
+- GitHub: [@alex1779](https://github.com/alex1779)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-If you like this project remember to star and share it 🥳️
+If you like this project you can follow me on Github.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+I would like to thank all Microverse staff.
 
-- ACKNOWLEDGMENTS TO CREATIVE LICENSE AND OTHERS
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+## ❓ FAQ <a name="faq"></a>
+
+- **What is a Linter?**
+
+  - Linter is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
+
+- **What is meant by Gitflow?**
+
+  - Gitflow is an alternative Git branching model that involves the use of feature branches and multiple primary branches.
+
+- **What is DOM?**
+
+  - The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web. 
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
