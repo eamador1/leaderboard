@@ -6,7 +6,8 @@
   "scripts": {
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "npm run build && netlify deploy --prod --dir ./build" 
   },
   "keywords": [],
   "author": "",

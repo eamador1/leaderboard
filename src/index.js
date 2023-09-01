@@ -12,7 +12,7 @@ const populate = async () => {
   const allPlayers = await response.json();
 
   populateList(allPlayers);
-}
+};
 
 populate();
 
